@@ -41,3 +41,18 @@ Then press `w` for web, `i` for iOS simulator, or `a` for Android emulator.
 - FakeStore API for product data
 - AsyncStorage for saving orders
 - Context API for cart state
+
+## Screenshots
+
+![Screenshot 1](screenshots/IMG_6437.PNG)
+![Screenshot 2](screenshots/IMG_6438.PNG)
+![Screenshot 3](screenshots/IMG_6439.PNG)
+![Screenshot 4](screenshots/IMG_6440.PNG)
+![Screenshot 5](screenshots/IMG_6441.PNG)
+![Screenshot 6](screenshots/IMG_6442.PNG)
+![Screenshot 7](screenshots/IMG_6443.PNG)
+![Screenshot 8](screenshots/IMG_6444.PNG)
+![Screenshot 9](screenshots/IMG_6445.PNG)
+
+
+
